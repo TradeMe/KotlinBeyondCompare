@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCFileFormats Version="1">
+	<TTextFormat Value="Kotlin source">
+		<CharPerLine Value="4096"/>
+		<CodePageDetect Value="True"/>
+		<ColBased Value="False"/>
+		<CommentCaseSig Value="True"/>
+		<ConvertKind Value="convertNone"/>
+		<CtrlZIsEOF Value="False"/>
+		<Description>
+			<_0 Value="Kotlin"/>
+		</Description>
+		<DirectiveCaseSig Value="True"/>
+		<Enabled Value="True"/>
+		<EnvironVarCaseSig Value="True"/>
+		<Grammar>
+			<_0 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Keyword"/>
+				<CaseSensitive Value="True"/>
+				<IsRegExp Value="False"/>
+				<Items>
+					<_0 Value="as"/>
+					<_1 Value="as?"/>
+					<_2 Value="break"/>
+					<_3 Value="class"/>
+					<_4 Value="continue"/>
+					<_5 Value="do"/>
+					<_6 Value="else"/>
+					<_7 Value="false"/>
+					<_8 Value="for"/>
+					<_9 Value="fun"/>
+					<_10 Value="if"/>
+					<_11 Value="in"/>
+					<_12 Value="!in"/>
+					<_13 Value="interface"/>
+					<_14 Value="is"/>
+					<_15 Value="!is"/>
+					<_16 Value="null"/>
+					<_17 Value="object"/>
+					<_18 Value="package"/>
+					<_19 Value="return"/>
+					<_20 Value="super"/>
+					<_21 Value="this"/>
+					<_22 Value="throw"/>
+					<_23 Value="true"/>
+					<_24 Value="try"/>
+					<_25 Value="typealias"/>
+					<_26 Value="val"/>
+					<_27 Value="var"/>
+					<_28 Value="when"/>
+					<_29 Value="while"/>
+				</Items>
+			</_0>
+			<_1 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Keyword"/>
+				<CaseSensitive Value="True"/>
+				<IsRegExp Value="False"/>
+				<Items>
+					<_0 Value="by"/>
+					<_1 Value="catch"/>
+					<_2 Value="constructor"/>
+					<_3 Value="delegate"/>
+					<_4 Value="dynamic"/>
+					<_5 Value="field"/>
+					<_6 Value="file"/>
+					<_7 Value="finally"/>
+					<_8 Value="get"/>
+					<_9 Value="import"/>
+					<_10 Value="init"/>
+					<_11 Value="param"/>
+					<_12 Value="property"/>
+					<_13 Value="receiver"/>
+					<_14 Value="set"/>
+					<_15 Value="setparam"/>
+					<_16 Value="where"/>
+				</Items>
+			</_1>
+			<_2 Value="TListTextGrammarItem">
+				<ElementStr Value="&#2;Keyword"/>
+				<CaseSensitive Value="True"/>
+				<IsRegExp Value="False"/>
+				<Items>
+					<_0 Value="actual"/>
+					<_1 Value="abstract"/>
+					<_2 Value="annotation"/>
+					<_3 Value="companion"/>
+					<_4 Value="const"/>
+					<_5 Value="crossinline"/>
+					<_6 Value="data"/>
+					<_7 Value="enum"/>
+					<_8 Value="expect"/>
+					<_9 Value="external"/>
+					<_10 Value="final"/>
+					<_11 Value="infix"/>
+					<_12 Value="inline"/>
+					<_13 Value="inner"/>
+					<_14 Value="internal"/>
+					<_15 Value="lateinit"/>
+					<_16 Value="noinline"/>
+					<_17 Value="open"/>
+					<_18 Value="operator"/>
+					<_19 Value="out"/>
+					<_20 Value="override"/>
+					<_21 Value="private"/>
+					<_22 Value="protected"/>
+					<_23 Value="public"/>
+					<_24 Value="reified"/>
+					<_25 Value="sealed"/>
+					<_26 Value="suspend"/>
+					<_27 Value="tailrec"/>
+					<_28 Value="vararg"/>
+				</Items>
+			</_2>
+			<_3 Value="TListTextGrammarItem">
+				<ElementStr Value="Special identifier"/>
+				<CaseSensitive Value="True"/>
+				<IsRegExp Value="False"/>
+				<Items>
+					<_0 Value="field"/>
+					<_1 Value="it"/>
+				</Items>
+			</_3>
+			<_4 Value="TListTextGrammarItem">
+				<ElementStr Value="Operators"/>
+				<CaseSensitive Value="True"/>
+				<IsRegExp Value="False"/>
+				<Items>
+					<_0 Value="+"/>
+					<_1 Value="-"/>
+					<_2 Value="*"/>
+					<_3 Value="."/>
+					<_4 Value="%"/>
+					<_5 Value="="/>
+					<_6 Value="+-"/>
+					<_7 Value="-="/>
+					<_8 Value="*="/>
+					<_9 Value="/="/>
+					<_10 Value="%="/>
+					<_11 Value="&amp;&amp;"/>
+					<_12 Value="||"/>
+					<_13 Value="!"/>
+					<_14 Value="=="/>
+					<_15 Value="!="/>
+					<_16 Value="==="/>
+					<_17 Value="!=="/>
+					<_18 Value="&lt;"/>
+					<_19 Value=">"/>
+					<_20 Value="&lt;="/>
+					<_21 Value=">="/>
+					<_22 Value="["/>
+					<_23 Value="]"/>
+					<_24 Value="!!"/>
+					<_25 Value="?."/>
+					<_26 Value="?:"/>
+					<_27 Value="::"/>
+					<_28 Value=".."/>
+					<_29 Value=":"/>
+					<_30 Value="?"/>
+					<_31 Value="->"/>
+					<_32 Value="@"/>
+					<_33 Value=";"/>
+					<_34 Value="$"/>
+					<_35 Value="_"/>
+				</Items>
+			</_4>
+			<_5 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;String"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="False"/>
+				<Text Value="&quot;"/>
+				<Escape Value="0"/>
+				<StopEOL Value="False"/>
+				<StopText Value="&quot;"/>
+			</_5>
+			<_6 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;String"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="False"/>
+				<Text Value="&quot;&quot;&quot;"/>
+				<Escape Value="0"/>
+				<StopEOL Value="False"/>
+				<StopText Value="&quot;&quot;&quot;"/>
+			</_6>
+			<_7 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;Identifier"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="False"/>
+				<Text Value="`"/>
+				<Escape Value="0"/>
+				<StopEOL Value="False"/>
+				<StopText Value="`"/>
+			</_7>
+			<_8 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;Comment"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="False"/>
+				<Text Value="//"/>
+				<Escape Value="0"/>
+				<StopEOL Value="True"/>
+				<StopText Value=""/>
+			</_8>
+			<_9 Value="TDelimitedTextGrammarItem">
+				<ElementStr Value="&#2;Comment"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="False"/>
+				<Text Value="/*"/>
+				<Escape Value="0"/>
+				<StopEOL Value="False"/>
+				<StopText Value="*/"/>
+			</_9>
+			<_10 Value="TBasicTextGrammarItem">
+				<ElementStr Value="&#2;Number"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="True"/>
+				<Text Value="\d+(\.\d+)?(e[+-]?\d+)?"/>
+			</_10>
+			<_11 Value="TBasicTextGrammarItem">
+				<ElementStr Value="&#2;Identifier"/>
+				<CaseSensitive Value="False"/>
+				<IsRegExp Value="True"/>
+				<Text Value="[_a-z]\w*"/>
+			</_11>
+		</Grammar>
+		<IdentifierCaseSig Value="True"/>
+		<IndentCaseSig Value="True"/>
+		<KeywordCaseSig Value="True"/>
+		<LabelCaseSig Value="True"/>
+		<LineBased Value="False"/>
+		<LineNumCaseSig Value="True"/>
+		<Mask Value="*.kt"/>
+		<NumberCaseSig Value="True"/>
+		<OperatorCaseSig Value="True"/>
+		<StringCaseSig Value="True"/>
+		<TabAsSpaces Value="False"/>
+		<TabSize Value="4"/>
+		<TidyLeadingWS Value="False"/>
+		<TrimTrailingWS Value="False"/>
+	</TTextFormat>
+</BCFileFormats>
