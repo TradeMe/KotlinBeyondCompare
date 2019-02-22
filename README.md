@@ -16,8 +16,8 @@ A file format plugin for [Beyond Compare 4](http://scootersoftware.com) with bas
 
 
 # Legal
-Copyright (c) XXX
-Licenced under [XXX](LICENSE)
+Copyright (c) 2019 David Rawson
+Licenced under [MIT](LICENSE)
 
 Beyond Compare is a trademark of [Scooter Software Inc.](http://scootersoftware.com)
 Kotlin is a trademark of Kotlin Foundation https://kotlinlang.org/foundation/kotlin-foundation.html
