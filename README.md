@@ -14,6 +14,8 @@ A file format plugin for [Beyond Compare 4](http://scootersoftware.com) with bas
    1. Click `Finish`![Press finish](/pics/press_finish.png)
 1. You can check if it works by choosing from the menu `Tools > Edit text file` and then changing the syntax highlighting (top-left dropdown) to "Kotlin source" ![Example](/pics/try_it.png)
 
+# Contributing
+Bug fixes or additions that track new language features are welcome! Especially, we would like to welcome first-time open-source contributors! Please read [here](CONTRIBUTING.md) for more info on how to contribute.
 
 # Legal
 Copyright (c) 2019 David Rawson
