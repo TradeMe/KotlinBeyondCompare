@@ -4,7 +4,7 @@ A file format plugin for [Beyond Compare 4](http://scootersoftware.com) with bas
 
 # Usage
 
-1. Download the latest release from [here](/releases)
+1. Download the latest release from [here](releases)
 1. Unzip the file somewhere
 1. Import the settings file in Beyond Compare using one of the following options
    1. Open Beyond Compare and choose the menu Tools > Import Settings... > Select \*.bcpkg file > Press Next
