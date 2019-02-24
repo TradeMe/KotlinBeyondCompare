@@ -18,8 +18,9 @@ A file format plugin for [Beyond Compare 4](http://scootersoftware.com) with bas
 Bug fixes or additions that track new language features are welcome! Especially, we would like to welcome first-time open-source contributors! Please read [here](CONTRIBUTING.md) for more info on how to contribute.
 
 # Legal
-Copyright (c) 2019 David Rawson
+Copyright (c) 2019 Trade Me
 Licenced under [MIT](LICENSE)
 
 Beyond Compare is a trademark of [Scooter Software Inc.](http://scootersoftware.com)
+
 Kotlin is a trademark of Kotlin Foundation https://kotlinlang.org/foundation/kotlin-foundation.html
