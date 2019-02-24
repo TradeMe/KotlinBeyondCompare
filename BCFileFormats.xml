@@ -228,7 +228,7 @@
 		<LabelCaseSig Value="True"/>
 		<LineBased Value="False"/>
 		<LineNumCaseSig Value="True"/>
-		<Mask Value="*.kt"/>
+		<Mask Value="*.kt;*.kts"/>
 		<NumberCaseSig Value="True"/>
 		<OperatorCaseSig Value="True"/>
 		<StringCaseSig Value="True"/>
