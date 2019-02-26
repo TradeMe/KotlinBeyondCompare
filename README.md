@@ -23,4 +23,4 @@ Licenced under [MIT](LICENSE)
 
 Beyond Compare is a trademark of [Scooter Software Inc.](http://scootersoftware.com)
 
-Kotlin is a trademark of Kotlin Foundation https://kotlinlang.org/foundation/kotlin-foundation.html
+Kotlin is a trademark of [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html)
