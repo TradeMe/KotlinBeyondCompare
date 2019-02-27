@@ -19,6 +19,7 @@ Bug fixes or additions that track new language features are welcome! Especially,
 
 # Legal
 Copyright (c) 2019 Trade Me
+
 Licenced under [MIT](LICENSE)
 
 Beyond Compare is a trademark of [Scooter Software Inc.](http://scootersoftware.com)
